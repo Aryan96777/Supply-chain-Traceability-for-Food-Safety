@@ -88,4 +88,6 @@ To revolutionize global food safety standards by creating a transparent, trustwo
 - **Supply Chain Finance**: Integration with blockchain-based financing solutions
 - **Insurance Integration**: Automated insurance claims processing based on supply chain data
 
-- Contact Address: 0x2dEcCB457ec33bA9235DBefCf18D6C4Da79f52bF
+- Contact Address: 0x2dEcCB457ec33bA9235DBefCf18D6C4Da79f52bF'
+<img width="1750" height="791" alt="image" src="https://github.com/user-attachments/assets/8d8e6f22-7868-4bcc-b794-ac8212b75782" />
+
